@@ -1,6 +1,6 @@
 {
   "name": "es-abstract-to-length",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A method to convert an argument to an integer suitable for use as the length of an array-like object. This method follows ECMAScript's specification for the 'ToLength' abstract operation.",
   "main": "lib/index.js",
   "directories": {
