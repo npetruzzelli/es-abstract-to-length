@@ -9,7 +9,7 @@ Currently, this module only supports the ES2017 (ES8) specification.
 ## Installation Using [npm](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
 
 ```
-npm install es-abstract-to-integer
+npm install es-abstract-to-length
 ```
 
 ## Example Usage
